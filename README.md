@@ -26,8 +26,11 @@ This is a **Spotify Student Premium clone** built using **HTML and CSS**. It is 
 
 1.Clone the repository:
     https://github.com/Hemagit46/Spotify-clone.git
+    
 2.Open the project folder.
+
 3.Open index.html in your browser.
+
 4.Enjoy the Spotify Student Premium clone UI!
 
 ----
@@ -59,8 +62,3 @@ Author:
 Hemasree
  
 
-
-
-
-   ```bash
-   git clone <your-repo-url>
